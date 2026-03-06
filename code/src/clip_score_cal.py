@@ -10,7 +10,6 @@ from torch.utils.data import DataLoader, Dataset
 from transformers import CLIPModel, CLIPProcessor, CLIPTokenizer
 from torchvision import transforms
 import torch.nn.functional as F
-
 transform = transforms.Compose([
     transforms.Resize((256, 256)),
     transforms.ToTensor(),

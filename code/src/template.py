@@ -80,7 +80,6 @@ imagenet_templates = [
     "a photo of a small {}.",
     "a tattoo of the {}.",
 ]
-
 painting_templates = [
     "{} style painting of the night sky with bold strokes.",
     "{} style landscape of rolling hills with dramatic brushwork.",

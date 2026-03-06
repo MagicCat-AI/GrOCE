@@ -5,7 +5,6 @@ import torch
 import numpy as np
 from PIL import Image
 
-
 def seed_everything(seed, deterministic=False):
     random.seed(seed)
     np.random.seed(seed)
