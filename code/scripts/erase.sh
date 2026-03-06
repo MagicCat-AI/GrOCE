@@ -3,7 +3,6 @@
 declare -A targets_map
 declare -A anchors_map
 declare -A contents_map
-
 # ========== Input Params ==========
 baselines=(
   "GrOCE"

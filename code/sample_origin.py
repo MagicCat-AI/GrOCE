@@ -15,6 +15,7 @@ from src.template import template_dict
 from src.utils import *
 
 
+
 def diffusion(unet, scheduler, latents, text_embeddings, total_timesteps, start_timesteps=0, guidance_scale=7.5, desc=None, **kwargs):
     scheduler.set_timesteps(total_timesteps)
     for timestep in tqdm(scheduler.timesteps[start_timesteps: total_timesteps], desc=desc):

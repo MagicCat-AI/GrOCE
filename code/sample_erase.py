@@ -21,7 +21,6 @@ import random
 from src.template import template_dict
 from src.utils import get_textencoding, get_token, seed_everything, process_img
 
-
 class ConceptNetwork:
     def __init__(self, network_path, decay_factor=0.8, tokenizer=None, text_encoder=None,
                  tau0=0.3, sigma=0.1, lambda_param=0.1, batch_size=32):

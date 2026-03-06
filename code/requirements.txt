@@ -10,3 +10,4 @@ accelerate == 1.9.0
 torch_fidelity == 0.3.0
 nudenet == 3.4.2
 prettytable == 3.16.0
+

@@ -33,4 +33,5 @@ for erase_type in "${erase_types[@]}"; do
   wait
 done
 
+
 wait
