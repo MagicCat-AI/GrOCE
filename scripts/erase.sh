@@ -23,7 +23,7 @@ anchors_map["style"]="art;art;art"
 contents_map["style"]="Van Gogh, Picasso, Monet, Caravaggio" 
 # ==================================================================
 
-GPU_IDX=('4')
+GPU_IDX=('0')
 GPU_ID=${GPU_IDX[0]}
 
 run_task() {

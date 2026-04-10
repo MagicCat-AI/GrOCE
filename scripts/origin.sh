@@ -7,7 +7,7 @@ contents_map["instance"]="Snoopy, Mickey, Spongebob, Pikachu"
 contents_map["style"]="Van Gogh, Picasso, Monet,Caravaggio"
 
 
-GPU_IDX=('7')
+GPU_IDX=('0')
 NUM_GPUS=${#GPU_IDX[@]} 
 
 gpu_idx=0
