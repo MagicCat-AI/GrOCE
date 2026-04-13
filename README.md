@@ -1,4 +1,4 @@
-# [CVPR 2026 Highlight 🔥] GrOCE <img src="img/logo.png" width="20" alt="Logo"> : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models
+# [CVPR 2026 Highlight 🔥] GrOCE <img src="img/logo.png" width="24" alt="Logo"> : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models
 
 **Paper:** [Arxiv](Arxiv)
 
@@ -10,7 +10,7 @@
 
 ## 📣 News
 
-- 2026/04 🌟 Our paper is selected as a CVPR 2026 Highlight (top 5% of submissions).
+- 2026/04 🌟 Our paper is selected as a CVPR 2026 Highlight.
 - 2026/03 🎉 Our paper is accepted to CVPR 2026.
 
 
