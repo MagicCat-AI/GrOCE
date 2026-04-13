@@ -1,4 +1,4 @@
-# [CVPR 2026] GrOCE:Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models
+# [CVPR 2026 Highlight 🔥] GrOCE <img src="img/logo.png" width="20" alt="Logo"> : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models
 
 **Paper:** [Arxiv](Arxiv)
 
@@ -7,6 +7,12 @@
 
 ![GrOCE Framework](img/GrOCE.png)
 **GrOCE** performs inference-time concept erasure through three synergistic components: (1) **Dynamic Semantic Graph Construction** builds a semantic graph with vocabulary tokens as nodes and cosine-weighted edges, supporting incremental updates for evolving concept sets.(2) **Adaptive Cluster Identification** performs multi-hop traversal with similarity decay to identify semantically entangled concepts (e.g., “grizzly,” “panda”) around the target. (3) **Selective Severing** removes the semantic components associated with the identified cluster, editing the text prompt prior to diffusion to suppress target concepts while preserving non-target semantics.
+
+## 📣 News
+
+- 2026/04 🌟 Our paper is selected as a CVPR 2026 Highlight (top 5% of submissions).
+- 2026/03 🎉 Our paper is accepted to CVPR 2026.
+
 
 ## 🛠️ Environment Configuration
 
