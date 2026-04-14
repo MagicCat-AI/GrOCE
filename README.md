@@ -1,6 +1,6 @@
 # [CVPR 2026 🔥 Highlight] GrOCE <img src="img/logo.png" width="30" alt="Logo"> : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models
 
-**Paper:** [Arxiv](Arxiv)
+**Paper:** [GrOCE : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2511.12968v2)
 
 **Authors:** Ning Han, Zhenyu Ge, Feng Han, Yuhua Sun, Jingjing Chen
 
@@ -85,7 +85,7 @@ bash scripts/erase.sh
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-
+It will be launched soon
 ```
 
 ## 🙏 Acknowledgments
