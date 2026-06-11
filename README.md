@@ -99,7 +99,13 @@ Demonstrates nudity concept erasure effect.
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-It will be launched soon
+@inproceedings{han2026groce,
+  title={Groce: Graph-guided online concept erasure for text-to-image diffusion models},
+  author={Han, Ning and Ge, Zhenyu and Han, Feng and Sun, Yuhua and Li, Chengqing and Chen, Jingjing},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={43536--43545},
+  year={2026}
+}
 ```
 
 ## 🙏 Acknowledgments
